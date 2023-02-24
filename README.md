@@ -61,4 +61,4 @@ Current implementation simply uses inheritance, however one can speed virtual ca
 
 ## Credits
 
-Made with :love: by Denys Smirnov.
+Made with :heart: by Denys Smirnov.
